@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "btree-store"
 version = "0.1.0"
 description = "Persistent copy-on-write B+-tree key-value store"
-readme = "DESIGN.md"
+readme = "README.md"
 requires-python = ">=3.10"
 dependencies = []
 
